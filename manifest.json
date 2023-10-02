@@ -11,9 +11,9 @@
                 "version": "3.2.0.0",
                 "changelog": "Changed bad names to Contains.\n",
                 "targetAbi": "10.8.0.0",
-                "sourceUrl": "https://github.com/maximeaubaret/jellyfin-plugin-refreshsparse/releases/download/3.2.0.0/refreshsparse_3.1.0.0.zip",
-                "checksum": "316163933abb1305165f6c6ba1fb7849",
-                "timestamp": "2022-12-29T00:00:00Z"
+                "sourceUrl": "https://github.com/maximeaubaret/jellyfin-plugin-refreshsparse/releases/download/3.2.0.0/refreshsparse_3.2.0.0.zip",
+                "checksum": "f5ff8a89113f9224ac0b247b2ad1d2e4",
+                "timestamp": "2023-10-01T00:00:00Z"
             },
             {
                 "version": "3.1.0.0",
